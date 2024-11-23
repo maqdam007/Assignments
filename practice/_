@@ -1,0 +1,13 @@
+#include <stdio.h>
+
+
+int main() {
+    int arr[] = {0,1,0,1,0,1,0,1};   
+    int i = 0, lowVal = 0, highVal = 1,n=8;
+
+    for(i=0; i < n;i++) {
+        
+        
+    }
+    
+}
