@@ -1,1 +1,1 @@
-Folder contains the smaple C codes. 
+Folder contains the sample C codes for practise the basics.
