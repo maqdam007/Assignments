@@ -4,6 +4,7 @@ struct Results {
     int * A;
     int N; // Length of the array
 };
+
 /*Rotate a array k times to right and replace first element with last after each loop*/
 struct Results solution(int A[], int N, int K) {
 
@@ -31,8 +32,10 @@ int main() {
     int N,K;
     printf("Enter arr length:");
     scanf("%d",&N);
+    
     printf("Enter rotation times:");
     scanf("%d",&K);
+    
     int i,arr[N];
     struct Results result;
 
